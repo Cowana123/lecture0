@@ -1,0 +1,36 @@
+		h1 {
+			color: blue;
+			text-align: center;
+			font-size: 50px;
+			font-weight: bold;
+			font-family: Arial Black;
+		    }
+			ul {
+				color: orange;
+			}
+			ol {
+				color: red;
+			}
+		div {
+			border: 20px dotted #EEEB0E;
+			background-color: teal;
+            width: 600px;				
+			height: 200px;
+			margin: 50px;
+			padding: 30px;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			font-weight: bold;
+		}
+	table {
+			border: 3px solid black;
+			border-collapse: collapse;
+	}
+	th, td {
+			border: 1px solid black;
+			padding: 3px;
+	}
+	th {
+			background-color: #42D7F1;
+	}
+			
